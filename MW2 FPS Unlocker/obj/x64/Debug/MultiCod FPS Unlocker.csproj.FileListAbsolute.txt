@@ -1,0 +1,10 @@
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\bin\x64\Debug\MultiCod FPS Unlocker.exe.config
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\bin\x64\Debug\MultiCod FPS Unlocker.exe
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\bin\x64\Debug\MultiCod FPS Unlocker.pdb
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod FPS Unlocker.csproj.AssemblyReference.cache
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod_FPS_Unlocker.Properties.Resources.resources
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod FPS Unlocker.csproj.GenerateResource.cache
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod FPS Unlocker.csproj.CoreCompileInputs.cache
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod FPS Unlocker.exe
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod FPS Unlocker.pdb
+C:\Users\Matty\source\repos\MultiCod FPS Unlocker\MultiCod FPS Unlocker\obj\x64\Debug\MultiCod_FPS_Unlocker.mw2maxfps.resources

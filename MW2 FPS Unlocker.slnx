@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="MW2 FPS Unlocker/MW2 FPS Unlocker.csproj" Id="b239cee3-5c33-4f65-973f-7e3642f78a97">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
